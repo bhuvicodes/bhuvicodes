@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @bhuvicodes
+- 👋 Hi, I’m Boobesh Kumar S
 - 👀 I’m interested in Python
-- 🌱 I’m currently learning Django
+- 🌱 I’m currently looking for a job as a Python developer
 - 📫 How to reach me boobeshrs@gmail.com
 
 <!---
